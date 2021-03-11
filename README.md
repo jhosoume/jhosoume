@@ -14,9 +14,7 @@
 
 
 - 🔭 &nbsp; Data Sciente | Full-stack | Software Engineer.
-
 - 🌱 &nbsp; Learning about ReactJS, Spark and Cloud Tech.
-
 - 👯 I’m looking to collaborate on Machine Learning Projects
 
 
