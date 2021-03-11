@@ -2,16 +2,36 @@
 
 <h2> I'm Juliana!</h2>
 
-<img align='right' src="https://tenor.com/view/himouto-umaru-computadora-anime-gif-9219504" width="230">
-
 [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://jhosoume.github.io)](https://anathayna.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-hosoume/)](https://www.linkedin.com/in/juliana-hosoume/)
 [![Gmail Badge](https://img.shields.io/badge/Email-ju.hosoume@gmail.com-white?style=flat-square&logo=gmail)](https://www.linkedin.com/in/juliana-hosoume/)
 
 
+<img align='right' src="https://media.giphy.com/media/xT9Igq85IOHk35xGow/source.gif" width="230">
 
-[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosoume)](https://github.com/jhosoume/)
+<h3> 💻 About Me </h3>
 
+
+
+- 🤔 &nbsp; Data Sciente | Full-stack | Software Engineer.
+
+- 🌱 &nbsp; Learning about ReactJS, Spark and Cloud Tech.
+
+- 👯 I’m looking to collaborate on Machine Learning Projects
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+- 💻 &nbsp; Python | C++ | C | Ruby
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Ruby On Rails
+
+
+---
+
+[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosoume&show_icons=true&theme=dracula)](https://github.com/jhosoume/)
+[![Juliana's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhosoume&theme=dracula&hide=VHDL)](https://github.com/jhosoume/)
 
 
 <!--
