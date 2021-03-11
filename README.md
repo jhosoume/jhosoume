@@ -30,8 +30,8 @@
 
 ---
 
-[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosoume&show_icons=true&theme=dracula)](https://github.com/jhosoume/)
-[![Juliana's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhosoume&theme=dracula&hide=VHDL)](https://github.com/jhosoume/)
+[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosoume&show_icons=true&theme=default&hide=issues,contribs&count_private=true)](https://github.com/jhosoume/)
+[![Juliana's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhosoume&theme=default&hide=verilog,postscript&langs_count=8&layout=compact)](https://github.com/jhosoume/)
 
 
 <!--
