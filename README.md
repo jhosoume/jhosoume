@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Juliana!
 
-<h2> I'm Juliana!</h2>
-
-[![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://jhosoume.github.io)](https://anathayna.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-hosoume/)](https://www.linkedin.com/in/juliana-hosoume/)
-[![Gmail Badge](https://img.shields.io/badge/Email-ju.hosoume@gmail.com-white?style=flat-square&logo=gmail)](https://www.linkedin.com/in/juliana-hosoume/)
+<p align="center">
+<!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/juliana-hosoume"><img src="https://img.shields.io/badge/-Juliana%20Hosoume-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ju.hosoume@gmail.com"><img src="https://img.shields.io/badge/-ju.hosoume@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 
 <img align='right' src="https://media.giphy.com/media/xT9Igq85IOHk35xGow/source.gif" width="230">
@@ -13,7 +13,7 @@
 
 
 
-- 🤔 &nbsp; Data Sciente | Full-stack | Software Engineer.
+- 🔭 &nbsp; Data Sciente | Full-stack | Software Engineer.
 
 - 🌱 &nbsp; Learning about ReactJS, Spark and Cloud Tech.
 
@@ -23,10 +23,26 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Python | C++ | C | Ruby
+- 💻 &nbsp; 
+    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; 
+    ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+    ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
+    ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)&nbsp;
+    
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Ruby On Rails
-
+- 🌐 &nbsp; 
+    ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=1572B6)&nbsp;
+    ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-333333?style=flat&logo=ruby-on-rails&logoColor=1572B6)&nbsp;
+    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=1572B6)&nbsp;
+    
+- ⚡ &nbsp; 
+    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+    ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+    ![VIM](https://img.shields.io/badge/-vim-333333?style=flat&logo=vim&logoColor=007ACC)&nbsp;
 
 ---
 <p align="center">
