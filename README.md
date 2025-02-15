@@ -26,6 +26,7 @@
     ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
     ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
     ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)&nbsp;
+    ![PySpark](https://img.shields.io/badge/-pyspark-333333?style=flat&logo=pyspark)&nbsp;
     
 
 - 🌐 &nbsp; 
